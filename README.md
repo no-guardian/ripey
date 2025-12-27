@@ -1,4 +1,6 @@
 # Ripey (RIPE REST API version)
+# original created by tedixx
+# rewritten by no-guardian
 
 A lightweight RIPE database query tool using the official RIPE REST API.
 
